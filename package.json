@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/filipecorrea/react-image-hotspots.git"
+    "url": "git+https://github.com/cherepski/react-image-hotspots.git"
   },
   "keywords": [
     "react",
@@ -35,9 +35,9 @@
   "author": "Filipe Corrêa <filipecorrea@me.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/filipecorrea/react-image-hotspots/issues"
+    "url": "https://github.com/cherepski/react-image-hotspots/issues"
   },
-  "homepage": "https://github.com/filipecorrea/react-image-hotspots#readme",
+  "homepage": "https://github.com/cherepski/react-image-hotspots#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.0",
     "@babel/core": "^7.5.0",
