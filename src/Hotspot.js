@@ -11,8 +11,6 @@ class Hotspot extends React.Component {
       top: y + '%',
       left: x + '%',
       fontFamily: 'Sans-Serif',
-      background: 'white',
-      boxShadow: '0px 0px 2px 0px rgba(0,0,0,0.5)',
       pointerEvents: 'auto'
     }
 
